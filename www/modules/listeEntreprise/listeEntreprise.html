@@ -1,6 +1,11 @@
 <ion-view view-title="Liste des entreprises">
     <ion-content>
-        <h1>Liste des entreprises</h1>
-        <h2>{{t}}</h2>
+        <div class="list">
+            <a class="item item-thumbnail-left" href="#" ng-repeat="entreprise in entreprises">
+                <img src="./img/{{entreprise.logo}}">
+                <h2>{{entreprise.nom}}</h2>
+                <p>{{entreprise.type}}</p>
+            </a>
+        </div>
     </ion-content>
 </ion-view>
