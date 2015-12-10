@@ -1,0 +1,42 @@
+[{
+    "nom": "Atos",
+    "type": "SSII",
+    "description": "River Ouest, 80 Quai Voltaire, 95 877 Bezons<br><br>Réparer un avion avec une imprimante 3 D ? Piloter tous les aiguillages ferroviaires d’ un pays ? Envoyer un robot explorateur sur Mars ? Rien ne nous effraie, nous aimons notre métier. La technologie évolue sans cesse, nous oblige à nous réinventer;elle nous rend plus libre, plus créatif.La maîtriser, c’ est offrir de nouvelles opportunités de développement à nos clients.Nous aimons les idées qui se réalisent, les audaces qui deviennent projets. Conseil, Infogérance, Intégration de systèmes, Big Data et sécurité, cloud computing, et paiements et service transactionnels: les 6 grands métiers d’ Atos constituent autant de laboratoire d’ innovation permanente au service des enjeux stratégiques et opérationnels de nos clients. Les équipes Atos se distinguent par un état d’ esprit unique: nos métiers nous imposent d’ innover en permanence.Intégrer une équipe Atos, c’ est rejoindre une communauté plurielle, qui vit et s’ exprime dans le défi!Ayez une longueur d’ avance: rejoignez l’ entreprise du futur! < h3 style = 'font-color : blue' > Atos c’ est: < /h3><br > < ul > < li > 93 000 collaborateurs dans 72 pays < /li > < li > 11 milliards d’ euros de chiffres d’ affaire < /li > < li > 40 ans d’ innovation < /li > < li > 0 email interne < /li > < li > Le leader européen dans le Cloud, le Big Data et la cybersécurité < /li> < li > Le partenaire informatique mondial des Jeux Olympiques et Paralympiques < /li > < /ul>",
+    "postes": [{
+            "intitule": "",
+            "type": "",
+            "duree": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "duree": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "duree": ""
+        }
+
+    ],
+    "logo": "logo_atos.jpg"
+}, {
+    "nom": "Micropole",
+    "type": "Conseil et intégration/ ESN ",
+    "description": "<p>Depuis plus de 25 ans, Micropole accompagne ses clients dans la création de projets à forte valeur ajoutée en les aidant à se transformer aux plans organisationnel, fonctionnel et technologique. </p> < p > Le Groupe compte 1100 collaborateurs à travers le monde(France, Suisse, Belgique, Luxembourg et Chine) et intervient sur 5 grandes familles métiers: < /p> < ul > < li > Le Pilotage de la Performance(Pilotage opérationnel, Business Intelligence, Big Data, Mobilité) < /li><li>La Transformation Digitale(marketing digital, e - commerce, relation client, connaissance client, applications mobiles)</li > < li > La Gouvernance des Données(qualité des données, Master Data Management, architecture d 'entreprise)</li><li>Le Big Data(Big Analytics et solutions packagées)</li> <li>La Formation via Micropole Institut</li> En 2015, le Groupe continue sa croissance et recrute de nouveaux talents, en France et à l 'international. Spécialisations consulting, engineering, training, e - commerce, relation client, business intelligence, transformation digitale, pilotage de la performance, gouvernance des données, master data management, connaissance client, élaboration budgétaire, big data Site web http: //www.micropole.com Secteur Technologies et services de l’ information ",
+    "postes": [{
+            "intitule": "",
+            "type": "",
+            "duree": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "duree": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "duree": ""
+        }
+
+    ],
+    "logo": "logo_micropole.png"
+
+}]
