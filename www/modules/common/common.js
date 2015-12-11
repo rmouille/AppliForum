@@ -2,6 +2,7 @@ angular.module("AppliForum.Common", [])
 
 .service('Entreprise', ["$http", function($http) {
     var entreprises = [{
+        "id": "",
         "nom": "",
         "type": "",
         "description": "",
@@ -15,7 +16,6 @@ angular.module("AppliForum.Common", [])
 
     return {
         init: function() {
-            console.log("coucou0");
             $http.get("./json/entreprises.json").then(function(response) {
                 angular.forEach(response.data, function(component, key) {
                     entreprises[key] = component;
@@ -24,9 +24,14 @@ angular.module("AppliForum.Common", [])
         },
         getList: function() {
             return entreprises;
+        },
+        getEntreprise: function(Id) {
+            angular.forEach(entreprises, function(component, key) {
+                if (component.id == Id) {
+                    entreprise = component;
+                }
+            });
+            return entreprise;
         }
-
-
-
     };
 }]);
