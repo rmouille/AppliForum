@@ -1,0 +1,13 @@
+<ion-view view-title="{{entreprise.nom}}">
+    <ion-content>
+        <div class="item item-body">
+            <img class="full-image" src="./img/{{entreprise.logo}}">
+            <div class="card">
+                <div class="item item-text-wrap">
+                    Type : {{entreprise.type}}
+                </div>
+            </div>
+            <div ng-bind-html="entreprise.description | sanitize"></div>
+        </div>
+    </ion-content>
+</ion-view>

@@ -4,7 +4,7 @@
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 // 'starter.controllers' is found in controllers.js
-angular.module('AppliForum', ['ionic', 'AppliForum.ListeEntreprise', 'AppliForum.Common'])
+angular.module('AppliForum', ['ionic', 'AppliForum.ListeEntreprise', 'AppliForum.Common', 'AppliForum.DetailEntreprise'])
 
 .run(function($ionicPlatform) {
     $ionicPlatform.ready(function() {
@@ -41,22 +41,34 @@ angular.module('AppliForum', ['ionic', 'AppliForum.ListeEntreprise', 'AppliForum
     })
 
     .state('app.typeEntreprise', {
-            url: '/typeEntreprise',
-            views: {
-                'menuContent': {
-                    templateUrl: 'modules/typeEntreprise/typeEntreprise.html'
-                }
+        url: '/typeEntreprise',
+        views: {
+            'menuContent': {
+                templateUrl: 'modules/typeEntreprise/typeEntreprise.html'
             }
-        })
-        .state('app.listeEntreprise', {
-            url: '/listeEntreprise',
-            views: {
-                'menuContent': {
-                    templateUrl: 'modules/listeEntreprise/listeEntreprise.html',
-                    controller: 'ListeEntrepriseCtrl'
-                }
+        }
+    })
+
+    .state('app.listeEntreprise', {
+        url: '/listeEntreprise',
+        views: {
+            'menuContent': {
+                templateUrl: 'modules/listeEntreprise/listeEntreprise.html',
+                controller: 'ListeEntrepriseCtrl'
             }
-        });
+        }
+    })
+
+    .state('app.detailEntreprise', {
+        url: '/detailEntreprise/:Id',
+        cache: false,
+        views: {
+            'menuContent': {
+                templateUrl: 'modules/detailEntreprise/detailEntreprise.html',
+                controller: 'DetailEntrepriseCtrl'
+            }
+        }
+    });
     // if none of the above states are matched, use this as the fallback
     $urlRouterProvider.otherwise('/app/accueil');
 });
