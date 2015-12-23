@@ -1,44 +1,224 @@
 [{
     "id": 1,
     "nom": "Atos",
-    "type": "SSII",
+    "type": "ESN",
     "description": "<p>River Ouest, 80 Quai Voltaire, 95 877 Bezons</p> <p>Réparer un avion avec une imprimante 3 D ? Piloter tous les aiguillages ferroviaires d’ un pays ? Envoyer un robot explorateur sur Mars ? Rien ne nous effraie, nous aimons notre métier.</p> <p>La technologie évolue sans cesse, nous oblige à nous réinventer; elle nous rend plus libre, plus créatif.La maîtriser, c’ est offrir de nouvelles opportunités de développement à nos clients.Nous aimons les idées qui se réalisent, les audaces qui deviennent projets.</p> <p>Conseil, Infogérance, Intégration de systèmes, Big Data et sécurité, cloud computing, et paiements et service transactionnels: les 6 grands métiers d’ Atos constituent autant de laboratoire d’ innovation permanente au service des enjeux stratégiques et opérationnels de nos clients.</p> <p>Les équipes Atos se distinguent par un état d’ esprit unique: nos métiers nous imposent d’ innover en permanence.Intégrer une équipe Atos, c’ est rejoindre une communauté plurielle, qui vit et s’ exprime dans le défi!Ayez une longueur d’ avance: rejoignez l’ entreprise du futur!</p> <h3 style='color : blue'>Atos c’ est:</h3> <ul style='list-style-type:disc'> <li> 93 000 collaborateurs dans 72 pays</li> <li> 11 milliards d’ euros de chiffres d’ affaire</li> <li> 40 ans d’ innovation</li> <li> 0 email interne</li> <li> Le leader européen dans le Cloud, le Big Data et la cybersécurité</li> <li> Le partenaire informatique mondial des Jeux Olympiques et Paralympiques</li> </ul>",
     "postes": [{
-            "intitule": "",
-            "type": "",
-            "duree": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "duree": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "duree": ""
-        }
-
-    ],
+        "intitule": "Stagiaire Développeur JEE (H/F)",
+        "type": "Stage",
+        "description": "<h3>Caractéristiques du poste</h3> <p>Pour accompagner nos équipes techniques sur des projets d'envergures, nous recherchons des stagiaires en développement (H/F).</p> <p>Vous interviendrez sur les environnements techniques suivants :</p> <ul style='list-style-type:disc'> <li>J2EE (Struts / hibernate / JSF / Spring / etc.)</li> <li>JavaScript (AngularJS, ExtJS, JQuery, etc.)</li> <li>Liferay</li> <li>Alfresco</li> </ul> <h3>Méthodologies :</h3> <ul style='list-style-type:disc'> <li>AGILE</li> </li>Cycle en V <li> </ul> <h3> Projets :</h3> <ul style='list-style-type:disc'> <li>TMA</li> <li>Build</li> </ul> <p>Nos différents projets concernent les secteurs du social, des collectivités, des ministères ou encore de l'industrie.</p> <h3>Profil</h3> <p>De formation Bac + 5 (en école d’ingénieur ou université) en cours de validation, vous souhaitez réaliser votre stage de fin d'étude sur du développement.</p> <p> Vous êtes créatif (ve), avez le sens du travail en équipe et maîtrisez l’anglais.</p> <p>Une proposition d’embauche au terme de votre période de stage est envisageable, sur le site de Marseille ou, si vous le désirez, dans toute autre région dans laquelle le groupe Atos recrute.</p> <p>Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.</p>",
+        "localisation": "Marseille"
+    }, {
+        "intitule": "Stagiaire Gouvernance IT (H/F)",
+        "type": "Stage",
+        "description": "<h3>Caractéristiques du poste</h3> <p>Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les systèmes d'informations de ses clients. Pour cela, notre entité dispose d'un riche portefeuille d'offres d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.</p> <p>Intégré(e) au sein d'une équipe d'infogérance pour un de nos grands clients locaux, vous participerez à la transformation d'une DSIT selon les bonnes pratiques ITIL :</p> <ul style='list-style-type:disc'> <li>Gestion de processus transverses</li> <li>Gestion de KPI et de tableaux de bord</li> <li>Gestion de la qualité de service</li> <li>Gestion de crises</li> <li>Comités de pilotage.</li> </ul> <h3>Profil</h3> <p>De formation supérieure Bac+5 (en cours de validation) en école d'ingénieur ou en université, vous recherchez un stage de dernière année.</p> <p>Vous possédez l'écoute, les capacités d'analyse et de synthèse, de réelles qualités relationnelles et de communication écrite et orale.</p> <p>Vous maitrisez l'anglais. </p> <p>Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.</p>",
+        "localisation": "Aix-en-Provence"
+    }, {
+        "intitule": "Stagiaire BID Manager (H/F)",
+        "type": "Stage",
+        "description": "<h3>Caractéristiques du poste</h3> <p>Intégré(e) au sein de la Direction technique de l'agence, vous participez aux phases d'avant-vente des offres à nos clients : définition de la solution, rédaction d'offres, P&L, planification et gestion du processus d'une affaire. </p> <p>Vos missions :</p> <ul style='list-style-type:disc'> <li>Conduite de processus</li> <li>Définition de solutions</li> <li>Estimation de charges</li> <li>Construction de P&L</li> <li>Ce stage vous permettra d'acquérir les connaissances des métiers du Conseil et de pilotage de projet.</li> </ul> <h3>Profil</h3> <p>De formation supérieure Bac+5 (en cours de validation) en Ecole d’Ingénieur ou en université, vous recherchez un stage d’une durée de 6 mois (dates variables selon la formation).</p> <p>Vous possédez l'écoute, les capacités d'analyse et de synthèse, de réelles qualités relationnelles et de communication écrite et orale, et vous maitrisez l'anglais.</p> <p>Une proposition d’embauche au terme de votre période de stage est envisageable, sur le site de Marseille ou, si vous le désirez, dans toute autre région dans laquelle le groupe Atos recrute.</p> <p>Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap. </p>",
+        "localisation": "Aix-en-Provence"
+    }, {
+        "intitule": "Stagiaire Consultant AMOA (H/F)",
+        "type": "Stage",
+        "description": "<h3>Caractéristiques du poste</h3> <p>Intégré(e) au sein d’une équipe d’AMOA travaillant pour un de nos clients dans le secteur public, vous participez à l’initialisation et au suivi de projets dans le domaine des infrastructures informatiques </p> <p>Vos missions :</p> <ul style='list-style-type:disc'> <li>Avant-projet</li> <li>Planification de projet</li> <li>Suivi de projet</li> <li>Analyse financière</li> <li>Gouvernance</li> </ul> <h3>Environnement technique :</h3> <p>Marchés publics, Outils de planification de projets, Outils bureautiques. Ce stage vous permet d'acquérir les connaissances des métiers du Conseil.</p> <h3>Profil</h3> <p>De formation supérieure Bac+5 (en cours de validation) en Ecole d’Ingénieur ou en université, vous recherchez un stage d’une durée de 6 mois (dates variables selon la formation).</p> <p>Vous possédez l'écoute, les capacités d'analyse et de synthèse, de réelles qualités relationnelles et de communication écrite et orale, et vous maitrisez l'anglais.</p> <p>Une proposition d’embauche au terme de votre période de stage est envisageable, sur le site de Marseille ou, si vous le désirez, dans toute autre région dans laquelle le groupe Atos recrute.</p> <p>Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap. </p>",
+        "localisation": "Aix-en-Provence"
+    }, {
+        "intitule": "Stagiaire Développeur DOT.NET (H/F) ",
+        "type": "Stage",
+        "description": "<h3>Caractéristiques du poste</h3> <p>Le développement confrontera le stagiaire à une architecture .NET complexe multi-tiers.</p> <p>Vous interviendrez sur les environnements techniques suivants :</p> <ul style='list-style-type:disc'> <li>Visual Studio,</li> <li>SQL Server,</li> <li>C#, ASP.NET,</li> <li>WCF, </li> <li>Entity Framework, </li> <li>TFS.</li> </ul> <h3>Vos missions :</h3> <ul style='list-style-type:disc'> <li>Concevoir</li> <li>Développer</li> <li>Tester </li> <li>Déployer et mettre en production </li> </ul> <p>Ce stage vous permet de mettre en œuvre la conception et le développement d’un module applicatif complet.</p> <h3>Profil</h3> <p>De formation Bac + 4/5 (en école d’ingénieur ou université) en cours de validation, vous souhaitez réaliser votre stage de fin d'étude sur du développement. </p> <p>Vous êtes créatif (ve), avez le sens du travail en équipe et maîtrisez l’anglais</p> <p>Une proposition d’embauche au terme de votre période de stage est envisageable, sur le site de Marseille ou, si vous le désirez, dans toute autre région dans laquelle le groupe Atos recrute.</p> <p>Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.</p>",
+        "localisation": "Marseille"
+    }, {
+        "intitule": "Stagiaire Consultant BI (H/F)",
+        "type": "Stage",
+        "description": "<h3>Caractéristiques du poste</h3> <p>Fortement présent sur le domaine de la « Business Intelligence », nous souhaitons renforcer nos équipes projet dans ce domaine.</p> <p>Nous recherchons aujourd'hui un stagiaire Développeur BO (H/F)</p> <p>A ce titre, votre mission consistera à participer aux phases de développement touchant le Système d'Information Décisionnel de nos clients.</p> <p>Pour cela, vous participerez :</p> <ul style='list-style-type:disc'> <li>à la rédaction des spécifications</li> <li>Développement des flux d'alimentation en utilisant des ETL,</li> <li>Développement des restitutions (Rapports, tableaux de bord,…)</li> <li>Définition et mise en place des solutions décisionnelles </li> <li>Définition et mise en place des architectures BI</li> <li>Réalisation de la veille technologique</li> </ul> <h3>Profil</h3> <p>De formation Bac + 4/5 (en école d’ingénieur ou université) en cours de validation, vous souhaitez réaliser votre stage de fin d'étude sur du développement.</p> <p>Vous êtes créatif (ve), avez le sens du travail en équipe et maîtrisez l’anglais</p> <p>Une proposition d’embauche au terme de votre période de stage est envisageable, sur le site de Marseille ou, si vous le désirez, dans toute autre région dans laquelle le groupe Atos recrute.</p> <p>Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.</p>",
+        "localisation": "Marseille"
+    }, {
+        "intitule": "Stagiaire Testeur (H/F)",
+        "type": "Stage",
+        "description": "<h3>Caractéristiques du poste</h3> <p>Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les systèmes d'informations de ses clients. Pour cela, notre entité dispose d'un riche portefeuille d'offres d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.</p> <p>Intégré(e) au sein d'une équipe spécialisée sur les métiers du test, vous participerez à des opérations d'intégration et de test pour notre client :</p> <ul style='list-style-type:disc'> <li>Exécution de tests fonctionnels, techniques ou de performance,</li> <li>Définition de plans de test,</li> <li>Suivi des écarts détectés par les tests,</li> <li>Gestion de la qualité de service du centre de tests.</li> </ul> <h3>Profil</h3> <p>De formation Bac + 4/5 (en école d’ingénieur ou université) en cours de validation, vous souhaitez réaliser votre stage de fin d'étude sur du développement. </p> <p>Vous êtes créatif (ve), avez le sens du travail en équipe et maîtrisez l’anglais</p> <p>Une proposition d’embauche au terme de votre période de stage est envisageable, sur le site de Marseille ou, si vous le désirez, dans toute autre région dans laquelle le groupe Atos recrute.</p> <p>Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap. </p>",
+        "localisation": "Marseille"
+    }, {
+        "intitule": "Stagiaire Infrastructure (H/F)",
+        "type": "Stage",
+        "description": "<h3>Caractéristiques du poste</h3> <p>Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les systèmes d'informations de ses clients. Pour cela, notre entité dispose d'un riche portefeuille d'offres d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.</p> <p>Intégré(e) au sein d'une équipe d'infogérance infrastructures, systèmes, réseau LAN & sécurité, vous participerez aux opérations d'administration de la production et aux projets de rénovation :</p> <ul style='list-style-type:disc'> <li>Demandes de services</li> <li>Incidents</li> <li>Gestion des changements</li> <li>Supervision</li> <li>Opérations en mode projet </li> </ul> <h3>Profil</h3> <p>De formation supérieure Bac+5 (en cours de validation) en école d'ingénieur ou en université, vous recherchez un stage de dernière année.</p> <p>Vous possédez l'écoute, les capacités d'analyse et de synthèse, de réelles qualités relationnelles et de communication écrite et orale.</p> <p>Vous maitrisez l'anglais.</p> <p>Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.</p>",
+        "localisation": "Marseille"
+    }],
     "logo": "logo_atos.jpg"
 }, {
     "id": 2,
     "nom": "Micropole",
-    "type": "Conseil et intégration/ ESN ",
+    "type": "ESN ",
     "description": "<p>Depuis plus de 25 ans, Micropole accompagne ses clients dans la création de projets à forte valeur ajoutée en les aidant à se transformer aux plans organisationnel, fonctionnel et technologique. </p> <p> Le Groupe compte 1100 collaborateurs à travers le monde(France, Suisse, Belgique, Luxembourg et Chine) et intervient sur 5 grandes familles métiers: </p> <ul style='list-style-type:disc'> <li> Le Pilotage de la Performance(Pilotage opérationnel, Business Intelligence, Big Data, Mobilité) </li> <li>La Transformation Digitale(marketing digital, e - commerce, relation client, connaissance client, applications mobiles)</li> <li> La Gouvernance des Données(qualité des données, Master Data Management, architecture d 'entreprise)</li> <li>Le Big Data(Big Analytics et solutions packagées)</li> <li>La Formation via Micropole Institut</li> <p>En 2015, le Groupe continue sa croissance et recrute de nouveaux talents, en France et à l 'international.</p> <h3>Spécialisations</h3> <p style='font-size : 12px; color:grey'>consulting, engineering, training, e - commerce, relation client, business intelligence, transformation digitale, pilotage de la performance, gouvernance des données, master data management, connaissance client, élaboration budgétaire, big data </p> <h3>Site Web</h4> <p style='font-size : 12px; color:grey'><a href='http://www.micropole.com'>http://www.micropole.com</a></p> <h3>Secteur</h3> <p style='font-size : 12px; color:grey'>Technologies et services de l’ information</p>",
     "postes": [{
             "intitule": "",
             "type": "",
-            "duree": ""
+            "description": "",
+            "localisation": ""
         }, {
             "intitule": "",
             "type": "",
-            "duree": ""
+            "description": "",
+            "localisation": ""
         }, {
             "intitule": "",
             "type": "",
-            "duree": ""
+            "description": "",
+            "localisation": ""
         }
 
     ],
     "logo": "logo_micropole.png"
 
+}, {
+    "id": 3,
+    "nom": "Key Performance Consulting",
+    "type": "ESN",
+    "description": "<p style='font-family: Tahoma;color: gray;'> <span style='color: #FF9300;font-weight: bold;'>KEY PERFORMANCE CONSULTING</span> est une société de conseil et d’expertise dont l’objectif est d’accompagner les Groupes dans l’amélioration de leur performance.</p> <p style='font-family: Tahoma;color: gray;'>Nous offrons une gamme de services à forte valeur ajoutée pour l’ensemble des fonctions d’entreprise :</p> <ul style='list-style-type:disc;font-family: Tahoma;color: gray;'> <li>FINANCE</li> <li>CUSTOMER EXPERIENCE & DIGITAL</li> <li>DATA INTELLIGENCE & ANALYTICS</li> </ul> <p style='font-family: Tahoma;color: gray;'>Avec plus de 80 consultants experts en France, nous accompagnons nos clients dans des projets complexes de transformation. Grace à nos compétences fonctionnelles et techniques, nous intervenons sur les phases amonts d’AMOA et mettons en oeuvre les solutions sur des domaines aussi variés que l’EPM, la BI et le Digital.</p>",
+    "postes": [{
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }
+
+    ],
+    "logo": "logo_kpc.png"
+}, {
+    "id": 4,
+    "nom": "NOVRH",
+    "type": "Editeur de logiciel",
+    "description": "<p>NOVRH (<a href='http://www.novrh.com/'>www.novrh.com</a>) est un éditeur et intégrateur de ses Solutions SIRH et Paie adaptables et innovantes depuis 26 ans à destination des Entreprises de Taille Intermédiaire. Nous travaillons pour des entreprises prestigieuses telles que McKinsey, le Boston Consulting Group, l’Olympique de Marseille et de nombreuses autres.</p>",
+    "postes": [{
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }
+
+    ],
+    "logo": "logo_novrh.jpg"
+}, {
+    "id": 5,
+    "nom": "STMicroelectronics",
+    "type": "Grande Entreprise ayant un service Informatique",
+    "description": "<p>STMicroelectronics est l’un des principaux fabricants mondiaux de semi-conducteurs avec un chiffre d'affaires net de 7,40 milliards de dollars en 2014. Le groupe compte environ 43.600 employés dans le monde, 11 principaux sites de fabrication, des centres de Recherche & Développement avancés dans 10 pays et des bureaux de vente à travers le monde.</p> <p>De la gestion de la consommation aux économies d’énergie, de la confidentialité à la sécurité des données, de la santé et du bien-être aux appareils grand public intelligents, ST est présent partout où la technologie microélectronique apporte une contribution positive et novatrice à la vie quotidienne. </p> <p>Le site ST de Rousset (Bouches-du-Rhône) est un site entièrement intégré qui inclut à la fois des activités de fabrication, de test électrique, de recherche et développement, de conception, de marketing, ainsi que des fonctions support, centrales et Corporate. Plus de 2.600 personnes travaillent sur ce site, dont 1.200 ingénieurs et cadres. Le site de Rousset dispose d'une usine de fabrication de plaquettes de silicium de 200mm de diamètre d’une capacité annuelle de production de 400.000 plaquettes. Environ 2 milliards de puces sont ainsi produites chaque année à ST Rousset.</p>",
+    "postes": "",
+    "logo": "logo_st.png"
+}, {
+    "id": 6,
+    "nom": "Logicielnet",
+    "type": "Startup",
+    "description": "<p>Logicielnet est une startup, leader des solutions de centres d’appels web 2.0 spécialisés dans le traitement des appels entrants. Un positionnement historique et unique sur le marché de par la combinaison du double statut d’opérateur télécom et de développeur/éditeur de solutions de gestion de la relation client.</p> <p>Reconnu pour ses compétences et ses activités de recherche et développement, Logicielnet a obtenu le statut de Jeune Entreprise Innovante. Logicielnet est un membre associé du pôle mondial de compétitivité Solutions Communicantes Sécurisées.</p> <p>En partenariat avec OSEO (Agence Nationale de Valorisation de la Recherche), Logicielnet a mené des programmes de recherche au niveau Européen avec le concours du CNRS et du Commissariat A l’Energie Atomique.</p>",
+    "postes": [{
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }
+
+    ],
+    "logo": "logo_logicielnet.png"
+}, {
+    "id": 7,
+    "nom": "CMA CGM",
+    "type": "Grande Entreprise ayant un service Informatique",
+    "description": "<p>Le Groupe CMA CGM, fondé et dirigé par Jacques R. Saadé est un leader mondial du transport maritime. Ses 465 navires desservent plus de 400 ports dans le monde, sur les 5 continents. En 2014, ils ont transporté 12,2 millions de conteneurs EVP (équivalent vingt pieds). CMA CGM connaît une croissance continue et ne cesse d’innover pour proposer à ses clients de nouvelles solutions maritimes, terrestres et logistiques. Présent sur l’ensemble des continents et dans 160 pays via son réseau de 655 agences, le Groupe emploie 22 000 personnes dans le monde y compris 2400 à Marseille où est situé son siège social.</p>",
+    "postes": [{
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }
+
+    ],
+    "logo": "logo_CmaCgm.jpg"
+}, {
+    "id": 8,
+    "nom": "Ordirope",
+    "type": "Grande Entreprise ayant un service Informatique",
+    "description": "<p> <span style='color : #e36c09'>ORDIROPE</span> (15 personnes à Aix, 100 personnes à Lyon ), SSII crée en 1989. Filiale du groupe <span style='color : #e36c09'>GFI</span> (10.000 personnes).</p> <p> <span style='color : #e36c09'>ORDIROPE</span> est éditeur et intégrateur du Progiciel de Gestion (ERP) <span style='color : #e36c09;font-weight : bold;'>ΜΙΝΟΣ</span> , conçu pour les fournisseurs de la Grande Distribution. </p> <p> <span style='color : #e36c09'>ORDIROPE à Aix</span> a pour mission d'implanter le progiciel auprès d'une clientèle de PME répartie sur le pourtour Méditerranéen. </p>",
+    "postes": [{
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }
+
+    ],
+    "logo": "logo_ordirope.jpg"
+}, {
+    "id": 9,
+    "nom": "Alten",
+    "type": "ESN",
+    "description": "DESCRIPTION EN ATTENTE",
+    "postes": [{
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }, {
+            "intitule": "",
+            "type": "",
+            "description": "",
+            "localisation": ""
+        }
+
+    ],
+    "logo": "logo_alten.jpg"
 }]

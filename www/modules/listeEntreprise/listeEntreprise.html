@@ -1,8 +1,14 @@
 <ion-view view-title="Liste des entreprises">
     <ion-content>
+        <div class="list list-inset">
+            <label class="item item-input">
+                <i class="icon ion-search placeholder-icon"></i>
+                <input type="text" placeholder="Rechercher" ng-model="search.text">
+            </label>
+        </div>
         <div class="list">
-            <a class="item item-thumbnail-left" href="#/app/detailEntreprise/{{entreprise.id}}" ng-repeat="entreprise in entreprises">
-                <img src="./img/{{entreprise.logo}}">
+            <a class="item item-thumbnail-left" href="#/app/detailEntreprise/{{entreprise.id}}" ng-repeat="entreprise in entreprises | filter: searchCompany">
+                <img style="max-height: 100%;max-width: 100%;width: 90px;height: auto;" src="./img/{{entreprise.logo}}">
                 <h2>{{entreprise.nom}}</h2>
                 <p>{{entreprise.type}}</p>
             </a>
