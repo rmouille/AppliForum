@@ -9,7 +9,8 @@ angular.module("AppliForum.Common", [])
         "postes": [{
             "intitule": "",
             "type": "",
-            "duree": ""
+            "description": "",
+            "localisation": ""
         }],
         "logo": ""
     }];
