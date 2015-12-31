@@ -1,1 +1,130 @@
-/* Empty. Add your own CSS if you like */
+h1, h2, h3, h4, h5
+{
+	color: #212121;
+	font-family: "Helvetica";
+}
+
+a, p
+{
+	color: #727272;
+}
+
+/* Accueil */
+
+.accueil .section
+{
+	margin-bottom: 15px;
+}
+
+.accueil .section .sectBar
+{
+	text-transform: uppercase;
+	padding: 12px 15px;
+	font-size: 1.2em; 
+}
+
+.accueil .section .bar1
+{
+	color: #1976D2;
+	background-color: #2196F3;
+}
+
+.accueil .section .bar2
+{
+	background-color: #F44336;
+	color: #C62828;
+}
+
+.accueil .section .bar3
+{
+	background-color: #4CAF50;
+	color: #388E3C;
+}
+
+.accueil .section .bar4
+{
+	background-color: #FF9800;
+	color: #F57C00;
+}
+
+.accueil .section p
+{
+	padding: 15px 15px 0px 15px;
+}
+
+.accueil .section a
+{
+	padding-left: 15px;
+}
+
+/*.accueil .section h2
+{
+	display: inline-block;
+	margin-bottom: 20px;
+	padding: 7px 7px 6px 7px;
+	font-size: 1.4em;
+	color: #FFFFFF;
+	background-color: #03A9F4;
+	border-radius: 2px;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+}*/
+
+/* Liste entreprises */
+
+.item h2
+{
+	margin-top: 2px;
+	margin-left: 10px;
+}
+
+.item-thumbnail-left > img:first-child
+{
+
+}
+
+/* Page entreprise */
+
+/* Labels type entreprises */
+
+.labelEnt
+{
+	position: absolute;
+	bottom: 12px;
+	right: 12px;
+	padding: 3px;
+	font-size: 95%;
+	color: #212121;
+	border: 1px solid #616161;
+	border-radius: 2px;
+	background-color: #9E9E9E;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+}
+
+.typeESN
+{
+	color: #FFFFFF;
+	border-color: #03A9F4;
+	background-color: #03A9F4;
+}
+
+.typeEDITEUR
+{
+	color: #FFFFFF;
+	border-color: #4CAF50;
+	background-color: #4CAF50;
+}
+
+.typeGRANDE
+{
+	width: 60%; /* En attendant de changer le nom du type d'entreprise */
+	color: #FFFFFF;
+	border-color: #FF9800;
+	background-color: #FF9800;
+}
+
+.typeSTARTUP
+{
+	color: #FFFFFF;
+	border-color: #F44336;
+	background-color: #F44336;
+}
