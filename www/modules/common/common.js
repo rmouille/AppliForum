@@ -12,7 +12,8 @@ angular.module("AppliForum.Common", [])
             "description": "",
             "localisation": ""
         }],
-        "logo": ""
+        "logo": "",
+        "label": ""
     }];
 
     return {

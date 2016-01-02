@@ -1,6 +1,28 @@
 <ion-view view-title="Type des entreprises">
     <ion-content>
-        <h1>Type des entreprises</h1>
-
+        <div>
+            <ion-item class="item-stable startUp" ng-click="toggleGroup(startUp)" ng-class="{active: isGroupShown(startUp)}">
+                <i class="icon" ng-class="isGroupShown(startUp) ? 'ion-minus' : 'ion-plus'"></i> Startup
+            </ion-item>
+            <ion-item class="typeShown" ng-show="isGroupShown(startUp)">
+                <p class="type">Une startup est une jeune entreprise qui a un fort potentiel de croissance. Ces entreprises se caractérisent souvent par un esprit caractéristique qui consiste à rendre le salarié beaucoup plus autonome, avec moins de contrainte. Les qualités et caractères qui correspondent bien pour travailler dans des startup sont l’autonomie, l’ambition, l’inventivité et l’adaptabilité. Vous aurez souvent l’occasion en startup de donner votre avis et de participer à la stratégie de l’entreprise et d’avoir beaucoup plus de responsabilités dans les tâches qui vous sont demandées.</p>
+            </ion-item>
+        </div>
+        <div>
+            <ion-item class="item-stable esn" ng-click="toggleGroup(esn)" ng-class="{active: isGroupShown(esn)}">
+                <i class="icon" ng-class="isGroupShown(esn) ? 'ion-minus' : 'ion-plus'"></i> ESN
+            </ion-item>
+            <ion-item class="typeShown" ng-show="isGroupShown(esn)">
+                <p class="type">Une startup est une jeune entreprise qui a un fort potentiel de croissance. Ces entreprises se caractérisent souvent par un esprit caractéristique qui consiste à rendre le salarié beaucoup plus autonome, avec moins de contrainte. Les qualités et caractères qui correspondent bien pour travailler dans des startup sont l’autonomie, l’ambition, l’inventivité et l’adaptabilité. Vous aurez souvent l’occasion en startup de donner votre avis et de participer à la stratégie de l’entreprise et d’avoir beaucoup plus de responsabilités dans les tâches qui vous sont demandées.</p>
+            </ion-item>
+        </div>
+        <div>
+            <ion-item class="item-stable esi" ng-click="toggleGroup(esi)" ng-class="{active: isGroupShown(esi)}">
+                <i class="icon" ng-class="isGroupShown(esi) ? 'ion-minus' : 'ion-plus'"></i> Entreprise ayant un service informatique
+            </ion-item>
+            <ion-item class="typeShown" ng-show="isGroupShown(esi)">
+                <p class="type">Une startup est une jeune entreprise qui a un fort potentiel de croissance. Ces entreprises se caractérisent souvent par un esprit caractéristique qui consiste à rendre le salarié beaucoup plus autonome, avec moins de contrainte. Les qualités et caractères qui correspondent bien pour travailler dans des startup sont l’autonomie, l’ambition, l’inventivité et l’adaptabilité. Vous aurez souvent l’occasion en startup de donner votre avis et de participer à la stratégie de l’entreprise et d’avoir beaucoup plus de responsabilités dans les tâches qui vous sont demandées.</p>
+            </ion-item>
+        </div>
     </ion-content>
 </ion-view>

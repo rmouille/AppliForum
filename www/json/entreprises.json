@@ -44,7 +44,8 @@
         "description": "<h3>Caractéristiques du poste</h3> <p>Atos Systèmes Intégration (SI) a pour vocation d'imaginer, développer et de maintenir opérationnels les systèmes d'informations de ses clients. Pour cela, notre entité dispose d'un riche portefeuille d'offres d'intégration de systèmes à forte valeur ajoutée, qui garantissent une rentabilité et une croissance optimale à ses clients. Cette entité continue à adapter ses offres afin de satisfaire la demande croissante de solutions.</p> <p>Intégré(e) au sein d'une équipe d'infogérance infrastructures, systèmes, réseau LAN & sécurité, vous participerez aux opérations d'administration de la production et aux projets de rénovation :</p> <ul style='list-style-type:disc'> <li>Demandes de services</li> <li>Incidents</li> <li>Gestion des changements</li> <li>Supervision</li> <li>Opérations en mode projet </li> </ul> <h3>Profil</h3> <p>De formation supérieure Bac+5 (en cours de validation) en école d'ingénieur ou en université, vous recherchez un stage de dernière année.</p> <p>Vous possédez l'écoute, les capacités d'analyse et de synthèse, de réelles qualités relationnelles et de communication écrite et orale.</p> <p>Vous maitrisez l'anglais.</p> <p>Chez Atos la diversité est au cœur de notre politique RH. C'est pourquoi nos métiers sont tous accessibles aux personnes en situation de handicap, et ce quelle que soit la nature de leur handicap.</p>",
         "localisation": "Marseille"
     }],
-    "logo": "logo_atos.jpg"
+    "logo": "logo_atos.jpg",
+    "label": "ESN"
 }, {
     "id": 2,
     "nom": "Micropole",
@@ -68,8 +69,8 @@
         }
 
     ],
-    "logo": "logo_micropole.png"
-
+    "logo": "logo_micropole.png",
+    "label": "ESN"
 }, {
     "id": 3,
     "nom": "Key Performance Consulting",
@@ -93,7 +94,8 @@
         }
 
     ],
-    "logo": "logo_kpc.png"
+    "logo": "logo_kpc.png",
+    "label": "ESN"
 }, {
     "id": 4,
     "nom": "NOVRH",
@@ -117,14 +119,16 @@
         }
 
     ],
-    "logo": "logo_novrh.jpg"
+    "logo": "logo_novrh.jpg",
+    "label": "EDITEUR"
 }, {
     "id": 5,
     "nom": "STMicroelectronics",
-    "type": "Grande Entreprise ayant un service Informatique",
+    "type": "Entreprise ayant un service Informatique",
     "description": "<p>STMicroelectronics est l’un des principaux fabricants mondiaux de semi-conducteurs avec un chiffre d'affaires net de 7,40 milliards de dollars en 2014. Le groupe compte environ 43.600 employés dans le monde, 11 principaux sites de fabrication, des centres de Recherche & Développement avancés dans 10 pays et des bureaux de vente à travers le monde.</p> <p>De la gestion de la consommation aux économies d’énergie, de la confidentialité à la sécurité des données, de la santé et du bien-être aux appareils grand public intelligents, ST est présent partout où la technologie microélectronique apporte une contribution positive et novatrice à la vie quotidienne. </p> <p>Le site ST de Rousset (Bouches-du-Rhône) est un site entièrement intégré qui inclut à la fois des activités de fabrication, de test électrique, de recherche et développement, de conception, de marketing, ainsi que des fonctions support, centrales et Corporate. Plus de 2.600 personnes travaillent sur ce site, dont 1.200 ingénieurs et cadres. Le site de Rousset dispose d'une usine de fabrication de plaquettes de silicium de 200mm de diamètre d’une capacité annuelle de production de 400.000 plaquettes. Environ 2 milliards de puces sont ainsi produites chaque année à ST Rousset.</p>",
     "postes": "",
-    "logo": "logo_st.png"
+    "logo": "logo_st.png",
+    "label": "GRANDE"
 }, {
     "id": 6,
     "nom": "Logicielnet",
@@ -148,11 +152,12 @@
         }
 
     ],
-    "logo": "logo_logicielnet.png"
+    "logo": "logo_logicielnet.png",
+    "label": "Startup"
 }, {
     "id": 7,
     "nom": "CMA CGM",
-    "type": "Grande Entreprise ayant un service Informatique",
+    "type": "Entreprise ayant un service Informatique",
     "description": "<p>Le Groupe CMA CGM, fondé et dirigé par Jacques R. Saadé est un leader mondial du transport maritime. Ses 465 navires desservent plus de 400 ports dans le monde, sur les 5 continents. En 2014, ils ont transporté 12,2 millions de conteneurs EVP (équivalent vingt pieds). CMA CGM connaît une croissance continue et ne cesse d’innover pour proposer à ses clients de nouvelles solutions maritimes, terrestres et logistiques. Présent sur l’ensemble des continents et dans 160 pays via son réseau de 655 agences, le Groupe emploie 22 000 personnes dans le monde y compris 2400 à Marseille où est situé son siège social.</p>",
     "postes": [{
             "intitule": "",
@@ -172,11 +177,12 @@
         }
 
     ],
-    "logo": "logo_CmaCgm.jpg"
+    "logo": "logo_CmaCgm.jpg",
+    "label": "GRANDE"
 }, {
     "id": 8,
     "nom": "Ordirope",
-    "type": "Grande Entreprise ayant un service Informatique",
+    "type": "Entreprise ayant un service Informatique",
     "description": "<p> <span style='color : #e36c09'>ORDIROPE</span> (15 personnes à Aix, 100 personnes à Lyon ), SSII crée en 1989. Filiale du groupe <span style='color : #e36c09'>GFI</span> (10.000 personnes).</p> <p> <span style='color : #e36c09'>ORDIROPE</span> est éditeur et intégrateur du Progiciel de Gestion (ERP) <span style='color : #e36c09;font-weight : bold;'>ΜΙΝΟΣ</span> , conçu pour les fournisseurs de la Grande Distribution. </p> <p> <span style='color : #e36c09'>ORDIROPE à Aix</span> a pour mission d'implanter le progiciel auprès d'une clientèle de PME répartie sur le pourtour Méditerranéen. </p>",
     "postes": [{
             "intitule": "",
@@ -196,7 +202,8 @@
         }
 
     ],
-    "logo": "logo_ordirope.jpg"
+    "logo": "logo_ordirope.jpg",
+    "label": "GRANDE"
 }, {
     "id": 9,
     "nom": "Alten",
@@ -220,5 +227,6 @@
         }
 
     ],
-    "logo": "logo_alten.jpg"
+    "logo": "logo_alten.jpg",
+    "label": "ESN"
 }]

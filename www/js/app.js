@@ -4,7 +4,7 @@
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 // 'starter.controllers' is found in controllers.js
-angular.module('AppliForum', ['ionic', 'AppliForum.ListeEntreprise', 'AppliForum.Common', 'AppliForum.DetailEntreprise'])
+angular.module('AppliForum', ['ionic', 'AppliForum.ListeEntreprise', 'AppliForum.Common', 'AppliForum.DetailEntreprise', 'AppliForum.TypeEntreprise'])
 
 .run(function($ionicPlatform) {
     $ionicPlatform.ready(function() {
@@ -44,7 +44,8 @@ angular.module('AppliForum', ['ionic', 'AppliForum.ListeEntreprise', 'AppliForum
         url: '/typeEntreprise',
         views: {
             'menuContent': {
-                templateUrl: 'modules/typeEntreprise/typeEntreprise.html'
+                templateUrl: 'modules/typeEntreprise/typeEntreprise.html',
+                controller: 'TypeEntrepriseCtrl'
             }
         }
     })
