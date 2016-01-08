@@ -2,23 +2,19 @@
     <ion-content>
         <div class="item item-body">
             <img class="full-image" src="./img/{{entreprise.logo}}">
-            <div class="card">
-                <div class="item item-text-wrap {{entreprise.label}}">
-                    Type : {{entreprise.type}}
-                </div>
+            <div class="cardType type{{entreprise.label}}">
+                {{entreprise.type}}
             </div>
             <div ng-bind-html="entreprise.description | sanitize"></div>
             <div ng-repeat="poste in entreprise.postes">
-                <ion-item class="item-stable" ng-click="toggleGroup(poste)" ng-class="{active: isGroupShown(poste)}">
+                <ion-item class="item-stable poste" ng-click="toggleGroup(poste)" ng-class="{active: isGroupShown(poste)}">
                     <i class="icon" ng-class="isGroupShown(poste) ? 'ion-minus' : 'ion-plus'"></i> {{poste.intitule}}
-                    <p>{{poste.type}}</p>
-                    <p>{{poste.localisation}}</p>
+                    </br>{{poste.type}} {{poste.localisation}}</span>
                 </ion-item>
                 <ion-item class="item-accordion" ng-show="isGroupShown(poste)">
                     <div ng-bind-html="poste.description | sanitize"></div>
                 </ion-item>
             </div>
-            </ion-list>
         </div>
     </ion-content>
 </ion-view>

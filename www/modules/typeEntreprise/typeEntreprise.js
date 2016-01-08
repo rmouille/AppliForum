@@ -3,6 +3,7 @@ angular.module("AppliForum.TypeEntreprise", [])
         $scope.startUp = "";
         $scope.esn = true;
         $scope.esi = false;
+        $scope.editeur = "a";
 
         $scope.toggleGroup = function(group) {
             if ($scope.isGroupShown(group)) {

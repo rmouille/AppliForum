@@ -19,7 +19,7 @@ p {
     margin-bottom: 15px;
     margin-right: 6px;
     margin-left: 6px;
-    border: solid 1px #F78F1D;
+    border: solid 1px #E67E22;
 }
 
 .accueil .section .sectBar {
@@ -27,7 +27,7 @@ p {
     padding: 12px 15px;
     font-size: 1.2em;
     color: white;
-    background-color: #F78F1D;
+    background-color: #E67E22;
 }
 
 .accueil .section p {
@@ -41,14 +41,14 @@ p {
 
 /*.accueil .section h2
 {
-	display: inline-block;
-	margin-bottom: 20px;
-	padding: 7px 7px 6px 7px;
-	font-size: 1.4em;
-	color: #FFFFFF;
-	background-color: #03A9F4;
-	border-radius: 2px;
-	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 7px 7px 6px 7px;
+    font-size: 1.4em;
+    color: #FFFFFF;
+    background-color: #03A9F4;
+    border-radius: 2px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
 }*/
 
 
@@ -63,7 +63,8 @@ p {
     padding: 12px 15px;
     font-size: 1.2em;
     text-align: center;
-    background-color: mediumseagreen !important;
+    background-color: #E67E22 !important;
+    border: 0px !important;
 }
 
 .esi {
@@ -71,7 +72,8 @@ p {
     padding: 12px 15px;
     font-size: 1.2em;
     text-align: center;
-    background-color: tomato !important;
+    background-color: #34495E !important;
+    border: 0px !important;
 }
 
 .esn {
@@ -79,11 +81,20 @@ p {
     padding: 12px 15px;
     font-size: 1.2em;
     text-align: center;
-    background-color: #219CEE !important;
+    background-color: #7F8C8D !important;
+    border: 0px !important;
+}
+
+.editeur {
+    color: white !important;
+    padding: 12px 15px;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #2980B9 !important;
+    border: 0px !important;
 }
 
 .typeShown {
-    border: solid 1px mediumseagreen;
     margin-right: 1px;
 }
 
@@ -117,22 +128,44 @@ p {
 
 .typeESN {
     color: white !important;
-    background-color: #219CEE !important;
+    background-color: #7F8C8D !important;
 }
 
 .typeEDITEUR {
     color: #FFFFFF !important;
-    background-color: #F78F1D !important;
+    background-color: #2980B9 !important;
 }
 
 .typeGRANDE {
-    width: 60%;
-    /* En attendant de changer le nom du type d'entreprise */
     color: white !important;
-    background-color: tomato !important;
+    background-color: #34495E !important;
 }
 
 .typeStartup {
     color: white;
-    background-color: mediumseagreen !important;
+    background-color: #E67E22 !important;
+}
+
+ul {
+    margin-left: 40px;
+    font-size: 14px;
+    white-space: normal !important;
+}
+
+.poste {
+    color: white !important;
+    padding: 12px 15px;
+    background-color: #34495E !important;
+    padding-bottom: 10px;
+}
+
+.cardType {
+    display: inline-block;
+    position: relative;
+    border: 0px !important;
+    padding: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 2px;
+    margin-left: 10px;
 }

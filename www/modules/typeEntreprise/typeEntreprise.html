@@ -5,7 +5,11 @@
                 <i class="icon" ng-class="isGroupShown(startUp) ? 'ion-minus' : 'ion-plus'"></i> Startup
             </ion-item>
             <ion-item class="typeShown" ng-show="isGroupShown(startUp)">
-                <p class="type">Une startup est une jeune entreprise qui a un fort potentiel de croissance. Ces entreprises se caractérisent souvent par un esprit caractéristique qui consiste à rendre le salarié beaucoup plus autonome, avec moins de contrainte. Les qualités et caractères qui correspondent bien pour travailler dans des startup sont l’autonomie, l’ambition, l’inventivité et l’adaptabilité. Vous aurez souvent l’occasion en startup de donner votre avis et de participer à la stratégie de l’entreprise et d’avoir beaucoup plus de responsabilités dans les tâches qui vous sont demandées.</p>
+                <p class="type">Une startup est une jeune entreprise qui a un fort potentiel de croissance. Ces entreprises se caractérisent souvent par un esprit caractéristique qui consiste à rendre le salarié beaucoup plus autonome, avec moins de contrainte.</p>
+                </br>
+                <p class="type">Les qualités et caractères qui correspondent bien pour travailler dans des startup sont l’autonomie, l’ambition, l’inventivité et l’adaptabilité.</p>
+                </br>
+                <p class="type">Vous aurez souvent l’occasion en startup de donner votre avis et de participer à la stratégie de l’entreprise et d’avoir beaucoup plus de responsabilités dans les tâches qui vous sont demandées.</p>
             </ion-item>
         </div>
         <div>
@@ -13,15 +17,44 @@
                 <i class="icon" ng-class="isGroupShown(esn) ? 'ion-minus' : 'ion-plus'"></i> ESN
             </ion-item>
             <ion-item class="typeShown" ng-show="isGroupShown(esn)">
-                <p class="type">Une startup est une jeune entreprise qui a un fort potentiel de croissance. Ces entreprises se caractérisent souvent par un esprit caractéristique qui consiste à rendre le salarié beaucoup plus autonome, avec moins de contrainte. Les qualités et caractères qui correspondent bien pour travailler dans des startup sont l’autonomie, l’ambition, l’inventivité et l’adaptabilité. Vous aurez souvent l’occasion en startup de donner votre avis et de participer à la stratégie de l’entreprise et d’avoir beaucoup plus de responsabilités dans les tâches qui vous sont demandées.</p>
+                <p class="type">Une ESN est une Entreprise de Services du Numérique, ce type d’entreprise propose des services informatiques à d’autres entreprises.</p>
+                <p class="type"> Ces services peuvent être :</p>
+                <p class="type">
+                    <ul style='list-style-type:disc;font-family: Tahoma;color: gray;'>
+                        <li>Développement d’outil informatique, outil de gestion pour l’entreprise ou outil technique - Du conseil, sur le système d’information de l’entreprise par exemple</li>
+                        <li>De l’audit</li>
+                        <li>Développement d’outil de BI (Business Intelligence)</li>
+                        <li>Des services liés à la sécurité de l’entreprise</li>
+                    </ul>
+                </p>
+                <p class="type">Les qualités qui correspondent bien à une ESN sont la curiosité, la mobilité et l’autonomie.</p>
+                </br>
+                <p class="type"> Dans une ESN vous aurez certainement l’occasion de travailler sur plusieurs projets différents touchant plusieurs secteurs, vous pourrez découvrir des milieux très divers. Il vous sera aussi possible de vous déplacersur le territoire, ce qui peut être intéressant pour les personnes qui aiment bouger.
+                </p>
             </ion-item>
         </div>
         <div>
             <ion-item class="item-stable esi" ng-click="toggleGroup(esi)" ng-class="{active: isGroupShown(esi)}">
-                <i class="icon" ng-class="isGroupShown(esi) ? 'ion-minus' : 'ion-plus'"></i> Entreprise ayant un service informatique
+                <i class="icon" ng-class="isGroupShown(esi) ? 'ion-minus' : 'ion-plus'"></i> GEASI
             </ion-item>
             <ion-item class="typeShown" ng-show="isGroupShown(esi)">
-                <p class="type">Une startup est une jeune entreprise qui a un fort potentiel de croissance. Ces entreprises se caractérisent souvent par un esprit caractéristique qui consiste à rendre le salarié beaucoup plus autonome, avec moins de contrainte. Les qualités et caractères qui correspondent bien pour travailler dans des startup sont l’autonomie, l’ambition, l’inventivité et l’adaptabilité. Vous aurez souvent l’occasion en startup de donner votre avis et de participer à la stratégie de l’entreprise et d’avoir beaucoup plus de responsabilités dans les tâches qui vous sont demandées.</p>
+                <h2>Grande Entreprise Ayant un Service Informatique</h2>
+                <p class="type">Ce sont souvent des grosses entreprises qui ont leurs services informatiques intégrés, mais ça peut aussi être des entreprises dont le métier nécessite un service de développement informatique.</p>
+                </br>
+                <p class="type"> Pour travailler dans ces entreprises il est apprécié d’avoir des qualités d’audace, de respect des règles, process et de la hiérarchie (pour les gros groupes), autonomie et être curieux.
+                </p>
+            </ion-item>
+        </div>
+        <div>
+            <ion-item class="item-stable editeur" ng-click="toggleGroup(editeur)" ng-class="{active: isGroupShown(editeur)}">
+                <i class="icon" ng-class="isGroupShown(editeur) ? 'ion-minus' : 'ion-plus'"></i> Editeur de logiciel
+            </ion-item>
+            <ion-item class="typeShown" ng-show="isGroupShown(editeur)">
+                <h2>Grande Entreprise Ayant un Service Informatique</h2>
+                <p class="type">Ce sont souvent des grosses entreprises qui ont leurs services informatiques intégrés, mais ça peut aussi être des entreprises dont le métier nécessite un service de développement informatique.</p>
+                </br>
+                <p class="type"> Pour travailler dans ces entreprises il est apprécié d’avoir des qualités d’audace, de respect des règles, process et de la hiérarchie (pour les gros groupes), autonomie et être curieux.
+                </p>
             </ion-item>
         </div>
     </ion-content>
