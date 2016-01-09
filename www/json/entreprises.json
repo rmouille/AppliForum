@@ -117,22 +117,17 @@
     "type": "Editeur de logiciel",
     "description": "<p>NOVRH (<a href='http://www.novrh.com/'>www.novrh.com</a>) est un éditeur et intégrateur de ses Solutions SIRH et Paie adaptables et innovantes depuis 26 ans à destination des Entreprises de Taille Intermédiaire. Nous travaillons pour des entreprises prestigieuses telles que McKinsey, le Boston Consulting Group, l’Olympique de Marseille et de nombreuses autres.</p>",
     "postes": [{
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
+            "intitule": "ANALYSTE FONCTIONNEL SIRH (H/F)",
+            "type": "Alternance",
+            "description": "<p>Vous souhaitez intégrer une entreprise dynamique, à la pointe de son secteur, éditeur de logiciels métier à taille humaine en forte croissance et avec des perspectives d’embauche ?</p> <p>Poste basé à Marseille (2ème Prado) pour une durée de 4 à 30 mois avec perspective de CDI.</p> <p>A partir de Mars 2015.</p> <p>Indemnisation : selon les règles des contrats de professionnalisation ou d’apprentissage.</p> <h3>Mission :</h3> <p>Rattaché(e) au Responsable Fonctionnel, votre première mission en tant qu’analyste fonctionnel SIRH sera de participer au processus d’analyse et de documentation sur l’ensemble des modules du produit, et plus précisément :<ul style='list-style-type:disc'> <li>Etre le référent pour l'équipe projet sur les aspects fonctionnels</li> <li>Documentation utilisateur</li> <li>Documentation intégrateurs et supports</li> <li>Tests et suivis des correctifs en cours en collaboration avec l’équipe</li> <li>Support et Tests </li> <li>Maintenance de la FAQ</li> <li>Concevoir et animer des formations internes</li> </ul> Notre objectif est de continuer à éditer un produit avec des améliorations stables et d’atteindre un niveau de documentation et de support documentaire de grande qualité et d’un accès simple.</p> <h3>Profil recherché :</h3> <p>En cours de formation bac +4/+5 en informatique ou RH avec une forte sensibilité informatique, en recherche d’une alternance, vous aimez le travail en équipe, les relations humaines.</p> <h4>Qualités requises :</h4> <p>Bonne capacité d’analyse et de synthèse, un bon niveau rédactionnel, orientation client (grande capacité à se mettre à la place du lecteur pour comprendre sa problématique, communication et techniques d’organisation.</p> <p>Vous êtes autonome, curieux, dynamique, organisé(e) et doté(e) d’un bon relationnel.</p>",
+            "localisation": "Marseille"
         }, {
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
+            "intitule": "CONSULTANT SIRH (H/F)",
+            "type": "Alternance",
+            "description": "<p>Vous souhaitez intégrer une entreprise dynamique, à la pointe de son secteur, éditeur de logiciels métier à taille humaine en forte croissance et avec des perspectives d’embauche ?</p> <p>Poste basé à Marseille (2ème Prado) pour une durée de 4 à 30 mois avec perspective de CDI.</p> <p>A partir de Mars 2015.</p> <p>Indemnisation : selon les règles des contrats de professionnalisation ou d’apprentissage.</p> <h3>Mission :</h3> <p>Rattaché(e) au Responsable du service Intégration, votre première mission en tant que consultant SIRH sera de participer à l’implémentation de l’application ORHUSV6 chez nos clients, et plus précisément :<ul style='list-style-type:disc'><li>De participer à l’audit, l’analyse de la demande et du besoin du client</li> <li>De prendre à sa charge la rédaction de certaines spécifications fonctionnelles</li> <li>De mettre en place certains paramétrages de la solution</li> <li>De suivre l’intégration des modules Paie - RH dans le nouveau SIRH cible</li> <li>De participer, et conduire à terme certains ateliers.</li></ul> </p> <p>L’ensemble de ces misions intervenant dans le cadre du contrat liant NOVRH au client.</p> <h3>Profil recherché :</h3> <p>En cours de formation bac +4/+5 en informatique ou RH avec une forte sensibilité informatique, en recherche d’une alternance, vous aimez le travail en équipe, les relations humaines.</p> <h4>Qualités requises :</h4> <p>Bonne capacité d’analyse et de synthèse, un bon niveau rédactionnel, capacité à communiquer face au client.</p> <p>Vous êtes autonome, curieux, dynamique, organisé(e) et doté(e) d’un bon relationnel.</p>",
+            "localisation": "Marseille"
         }
-
+        
     ],
     "logo": "logo_novrh.jpg",
     "label": "EDITEUR"
