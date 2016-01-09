@@ -169,24 +169,7 @@
     "nom": "CMA CGM",
     "type": "GEASI",
     "description": "<p>Le Groupe CMA CGM, fondé et dirigé par Jacques R. Saadé est un leader mondial du transport maritime. Ses 465 navires desservent plus de 400 ports dans le monde, sur les 5 continents. En 2014, ils ont transporté 12,2 millions de conteneurs EVP (équivalent vingt pieds). CMA CGM connaît une croissance continue et ne cesse d’innover pour proposer à ses clients de nouvelles solutions maritimes, terrestres et logistiques. Présent sur l’ensemble des continents et dans 160 pays via son réseau de 655 agences, le Groupe emploie 22 000 personnes dans le monde y compris 2400 à Marseille où est situé son siège social.</p>",
-    "postes": [{
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }
-
-    ],
+    "postes": "",
     "logo": "logo_CmaCgm.jpg",
     "label": "GRANDE"
 }, {
@@ -199,18 +182,8 @@
             "type": "",
             "description": "",
             "localisation": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
         }
-
+        
     ],
     "logo": "logo_ordirope.jpg",
     "label": "GRANDE"
@@ -219,24 +192,7 @@
     "nom": "Alten",
     "type": "ESN",
     "description": "<p><b>ALTEN, leader mondial de l’Ingénierie et du Conseil en Technologies</b>, accompagne la stratégie de</p> <p>développement de ses clients dans les domaines de l’innovation, de la R&D et des systèmes d’information technologiques.</p> <p>L’activité d’ALTEN s’articule autour de trois métiers qui lui permettent de s’interfacer naturellement auprès des directions techniques et des directions des systèmes d’information des industries manufacturières : </p> <ul style='list-style-type:disc'> <li>L’ingénierie et le Conseil en Technologies</li> <li>Les Réseaux Télécoms et Multimédia</li> <li>Les Systèmes d’Information Technologiques</li> </ul> <p>Rejoindre ALTEN, c’est la promesse de participer aux projets technologiques les plus audacieux de notre temps, dans des secteurs à la pointe de l’innovation.</p></br> <a href='http://www.altenrecrute.fr'>www.altenrecrute.fr</a>",
-    "postes": [{
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }
-
-    ],
+    "postes": "",
     "logo": "logo_alten.jpg",
     "label": "ESN"
 }, {
@@ -244,24 +200,7 @@
     "nom": "Capgemini",
     "type": "ESN",
     "description": "<p>Fort  de  près  de  145  000  collaborateurs  et  présent  dans  plus  de  40  pays,  Capgemini  est  l’un  des leaders mondiaux du conseil, des services informatiques et de l’infogérance. Le Groupe a réalisé en 2014 un chiffre d’affaires de 10,573 milliards d’euros. Avec ses clients, Capgemini conçoit et met en œuvre les solutions business et technologiques qui correspondent à leurs besoins et leur apporte les résultats auxquels ils aspirent. Profondément multiculturel, Capgemini revendique un style de travail qui lui est propre, la « Collaborative Business Experience », et s’appuie sur un mode de production mondialisé, le « Rightshore® ».</p> <p>Plus d’informations sur : <a href='http://www.capgemini.com'>www.capgemini.com</a>",
-    "postes": [{
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }, {
-            "intitule": "",
-            "type": "",
-            "description": "",
-            "localisation": ""
-        }
-
-    ],
+    "postes": "",
     "logo": "logo_capgemini.jpg",
     "label": "ESN"
 }]
