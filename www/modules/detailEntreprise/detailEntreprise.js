@@ -7,6 +7,7 @@ angular.module("AppliForum.DetailEntreprise", [])
                 $scope.shownGroup = null;
             } else {
                 $scope.shownGroup = group;
+
             }
         };
         $scope.isGroupShown = function(group) {

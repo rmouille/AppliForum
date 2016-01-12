@@ -152,7 +152,8 @@ ul {
     white-space: normal !important;
 }
 
-.poste {
+.poste
+ {
     color: white !important;
     padding: 12px 15px;
     background-color: #34495E !important;

@@ -1,11 +1,12 @@
 <ion-view view-title="{{entreprise.nom}}">
     <ion-content>
-        <div class="item item-body">
+        <div class="item item-body" style="height: 4000px;">
             <img class="full-image" src="./img/{{entreprise.logo}}">
             <div class="cardType type{{entreprise.label}}">
                 {{entreprise.type}}
             </div>
             <div ng-bind-html="entreprise.description | sanitize"></div>
+            <br>
             <div ng-repeat="poste in entreprise.postes">
                 <ion-item class="item-stable poste" ng-click="toggleGroup(poste)" ng-class="{active: isGroupShown(poste)}">
                     <i class="icon" ng-class="isGroupShown(poste) ? 'ion-minus' : 'ion-plus'"></i> {{poste.intitule}}
